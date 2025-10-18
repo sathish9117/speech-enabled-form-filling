@@ -1,0 +1,7 @@
+{
+  "name": "Speech-Enabled Form Filling",
+  "description": "An interactive web application that allows users to fill out forms using their voice, demonstrating hands-free navigation and real-time transcription.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
